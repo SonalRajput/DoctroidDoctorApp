@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "767943833447",
+    "firebase_url": "https://docroid.firebaseio.com",
+    "project_id": "docroid",
+    "storage_bucket": "docroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767943833447:android:252310be5eba6cca",
+        "android_client_info": {
+          "package_name": "apps.abhibhardwaj.com.doctriod.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767943833447-n2k8b91a085j5mk3a8n97gqi63cmvq3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apps.abhibhardwaj.com.doctriod.admin",
+            "certificate_hash": "48c3b6bbc70dc9ff8eb0797230e5862ecf00b46b"
+          }
+        },
+        {
+          "client_id": "767943833447-68p55kvqmuffgvbs69h4tut17stfohep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr5CvCjtni19TuJv0RZALTK3W-OJoOcjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767943833447-68p55kvqmuffgvbs69h4tut17stfohep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767943833447:android:82fb925956748d5b",
+        "android_client_info": {
+          "package_name": "apps.abhibhardwaj.com.doctriod.doctroiddoctorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767943833447-3rcp4qieipf5v8oa4dk7iir26bf9ebd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apps.abhibhardwaj.com.doctriod.doctroiddoctorapp",
+            "certificate_hash": "48c3b6bbc70dc9ff8eb0797230e5862ecf00b46b"
+          }
+        },
+        {
+          "client_id": "767943833447-68p55kvqmuffgvbs69h4tut17stfohep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr5CvCjtni19TuJv0RZALTK3W-OJoOcjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767943833447-68p55kvqmuffgvbs69h4tut17stfohep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767943833447:android:56954948d1b56dca",
+        "android_client_info": {
+          "package_name": "apps.abhibhardwaj.com.doctriod.patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767943833447-ghqsjvg0k9cqp0f2uj2dfund8s5eo87j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apps.abhibhardwaj.com.doctriod.patient",
+            "certificate_hash": "bf7a1979a8e236381ec065315addede4ef874719"
+          }
+        },
+        {
+          "client_id": "767943833447-1mkn4klfm0ueu1232vu57pjoekevp2c5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apps.abhibhardwaj.com.doctriod.patient",
+            "certificate_hash": "48c3b6bbc70dc9ff8eb0797230e5862ecf00b46b"
+          }
+        },
+        {
+          "client_id": "767943833447-68p55kvqmuffgvbs69h4tut17stfohep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr5CvCjtni19TuJv0RZALTK3W-OJoOcjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767943833447-68p55kvqmuffgvbs69h4tut17stfohep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
